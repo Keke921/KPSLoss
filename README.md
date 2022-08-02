@@ -14,7 +14,6 @@ $ python cifar_train_backbone.py --arch resnet32 /
 - [x] Support Cifar10/100-LT dataset
 - [ ] Support imageNet-LT
 - [ ] Support iNaturalist2018
-- [ ] Support Places365-LT
 - [ ] More loss functions
 - [ ] Separate configuration files for easier execution
 - [ ] Some other minor performance improvements
