@@ -5,9 +5,10 @@ This version is a demo of how to use KPS loss. The version that supports more da
 ## CIFAR10
 ```bash
 $ python cifar_train_backbone.py --arch resnet32 /
-                                 --dataset cifar10 --data_path './dataset/data_img' /
-                                 --loss_type 'GCL' --imb_factor 0.01 /
-                                 --batch_size 64 --learning_rate 0.1 
+                                 --dataset cifar10 --data_path './dataset/data_img'/
+                                 --loss_type 'KPS' --train_rule 'GA'/
+                                 --imb_factor 0.01 --batch_size 64 /
+                                 --learning_rate 0.1 
 ```
 
 ## To do list:
