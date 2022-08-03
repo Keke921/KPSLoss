@@ -174,7 +174,7 @@ def main_worker(gpu, ngpus_per_node, args):
         else:
             print("=> no checkpoint found at '{}'".format(args.resume))
 
-    cudnn.benchmark = True
+    cudnn.benchmark = False
 
     # init log for training
     root_log = 'log'
