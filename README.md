@@ -1,5 +1,5 @@
 # KPS Loss: Key Point Sensitive Loss for Long-tailed Visual Recognition
-This is the source code for our TPAMI paper: Key Point Sensitive Loss for Long-tailed Visual Recognition.  
+This is the [source code](https://github.com/Keke921/KPSLoss) for our TPAMI paper: Key Point Sensitive Loss for Long-tailed Visual Recognition.  
 This version is a demo of how to use KPS loss. The version that supports more datasets is in the works and is coming soon.
 
 ## CIFAR10
@@ -31,6 +31,7 @@ $ python cifar_train_backbone.py --arch resnet32 /
   pages     = {},
   publisher = {IEEE},
   year      = {2022},
+  doi       = {DOI: 10.1109/TPAMI.2022.3196044},
 }
 ```
 
