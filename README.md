@@ -28,10 +28,10 @@ $ python cifar_train_backbone.py --arch resnet32 /
   journal   = {{IEEE} Transactions on Pattern Analysis and Machine Intelligence},
   volume    = {},
   number    = {},
-  pages     = {},
+  pages     = {in press},
   publisher = {IEEE},
   year      = {2022},
-  doi       = {DOI: 10.1109/TPAMI.2022.3196044},
+  doi       = {10.1109/TPAMI.2022.3196044},
 }
 ```
 
