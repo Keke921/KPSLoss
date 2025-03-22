@@ -50,15 +50,14 @@ $ python cifar_train_backbone.py --arch resnet32 /
 
 
 ## Other Resources of long-tailed visual recognition
-[Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning)
 
-[Awesome-of-Long-Tailed-Recognition](https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition)
+* [Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning)
 
-[Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard)
+* [Awesome-of-Long-Tailed-Recognition](https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition)
 
-[BagofTricks-LT](https://github.com/zhangyongshun/BagofTricks-LT)
+* [Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard)
 
-[GCL: Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment](https://github.com/Keke921/GCLLoss) 
+* [BagofTricks-LT](https://github.com/zhangyongshun/BagofTricks-LT)
 
 ## Connection
 If you have any questions, please send the email to Mengke Li at: csmkli@comp.hkbu.edu.hk.
